@@ -88,7 +88,7 @@ D11 | RX | GPS/BDS |
 D12 | IO | Touch |
 VCC | VCC | Touch |
 GND | GND | Touch |
-GND | OUT+ | Charger |
+VCC | OUT+ | Charger |
 GND | OUT- | Charger |
 
 Charger Pin | Battery Pin |
