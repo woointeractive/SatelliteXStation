@@ -25,6 +25,8 @@ Device:
 - Display date and time in UTC timezone from  satellites
 - Bluetooth mode (transfer data to App)
 
+    ![](/images/v1.0.0_Device_1.png)
+    ![](/images/v1.0.0_Device_2.png)
     ![](/images/v1.0.0_OLED.png)
   
 
