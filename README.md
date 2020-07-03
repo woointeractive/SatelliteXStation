@@ -52,10 +52,10 @@ App:
 - Optional Shield: Uno with Arduino Sensor Shield v5, Nano with I/O Shield
 - Bluetooth with CC2541 (VCC, GND, TX, RX)
 - OLED Screen 128x64 IIC(I2C) with SSD1306 (VCC, GND, SDA, SCL)
-- Touch button with TTP223, change deivce and bluetooth mode (VCC, GND, IO)
+- Touch button with TTP223, change deivce between on-device and bluetooth working mode (VCC, GND, IO)
 - Lithium battery (3.7v, 4000+mah)
-- Type-C lithium battery charger with TP4056 (OUT+, OUT-, B+, B-)
 - GPS/BDS module with active antenna (VCC, GND, TX, RX)
+- Type-C lithium battery charger with TP4056 (OUT+, OUT-, B+, B-)
   
 
 
