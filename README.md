@@ -9,9 +9,10 @@ Portable Navigation System, a smart device for [Satellite X](https://apps.apple.
 - [2. Board and Parts](#2-board-and-parts)
 - [3. Design Pictures](#3-design-pictures)
 - [4. Pin Table](#4-pin-table)
-- [5. Drivers](#5-drivers)
-- [6. Firmwares](#6-firmwares)
-- [7. App Download](#7-app-download)
+- [5. Video](#5-video)
+- [6. Drivers](#5-drivers)
+- [7. Firmwares](#6-firmwares)
+- [8. App Download](#7-app-download)
   
 
 
@@ -99,12 +100,17 @@ B+ | VCC |
 B- | GND |
 
 
-#### **5. Drivers:**
+
+#### **5. Video:**
+[https://youtu.be/aKguFKC3hpo](https://youtu.be/aKguFKC3hpo)
+
+
+#### **6. Drivers:**
 
 - [macOS](https://github.com/woointeractive/Arduino/blob/master/drivers/CH34x_Install_V1.5.pkg) - Serial port driver for Sierra (10.12) and High Sierra (10.13)
   
 
-#### **6. Firmwares:**
+#### **7. Firmwares:**
 
 - [v1.0.0](/firmwares/SatelliteXStatio_v1.0.0.hex.zip)
 
@@ -113,6 +119,6 @@ Steps:
 1. Unzip the firmware file
 2. Download [Ardukit](https://apps.apple.com/app/ardukit/id1518175697) (macOS) and select .hex file to flash into Arduino board
 
-#### **7. App Download:**
+#### **8. App Download:**
 
 - [Satellite X](https://apps.apple.com/app/id1520253302) (Available on App Store, for iPhone, iPad)
